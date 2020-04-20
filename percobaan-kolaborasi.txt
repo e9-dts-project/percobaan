@@ -3,7 +3,7 @@ INI FILE PERCOBAAN KOLABORASI
 File ini adalah file percobaan yang digunakan untuk kolaborasi.
 Silakan melakukan editing (tambah/hapus) pada file ini.
 
-Berikut adalah rencanya yang akan kita lakukan dalam project ini:
+Berikut adalah rencana yang akan kita lakukan dalam project ini:
 1. Menentukan tema project
 2. Melakukan research terhadap project sejenis
 3. Membuat layout yang sesuai
