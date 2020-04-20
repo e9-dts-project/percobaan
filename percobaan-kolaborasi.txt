@@ -14,3 +14,8 @@ Berikut adalah rencanya yang akan kita lakukan dalam project ini:
 
 Demikian mungkin rencana yang akan kita lakukan untuk mengerjakan tugas yang diberikan.
 Semoga bisa selesai dengan hasil yang BAIK. aamiin.
+
+
+
+Saran tema sekarang mengenai company profile
+memperkenalkan kelompok kita karena hanya html dan css saja tanpa adanya back end database
